@@ -1,0 +1,23 @@
+{
+  "name": "first-react-app",
+  "version": "1.0.0",
+  "description": "first react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gisxiaowei/first-react-app.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs"
+  ],
+  "author": "gisxiaowei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gisxiaowei/first-react-app/issues"
+  },
+  "homepage": "https://github.com/gisxiaowei/first-react-app#readme"
+}
